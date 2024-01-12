@@ -35,21 +35,21 @@ def get_property_name(id):
 
 def get_property_image(id):
     if id == 51:
-        return 'resources\curvo.png'
+        return 'curvo.png'
     elif id == 50:
-        return 'resources\edgewood.png'
+        return 'edgewood.png'
     elif id == 46:
-        return 'resources\skymeridien.png'
+        return 'skymeridien.png'
     elif id == 43:
-        return 'resources\skyawani4.png'
+        return 'skyawani4.png'
     elif id == 47:
-        return 'resources\skyawani5.png'
+        return 'skyawani5.png'
     elif id == 48:
-        return 'resources\skyvogue.png'
+        return 'skyvogue.png'
     elif id == 45:
-        return 'resources\\thevalley.png'
+        return 'thevalley.png'
     elif id == 16:
-        return 'resources\\bennington.png'
+        return 'bennington.png'
     
 def get_property_desc(id):
     if id == 51:
